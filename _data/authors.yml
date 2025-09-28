@@ -3,5 +3,5 @@ suzhen:
   uri         : "https://suzhenxzhong.github.io"
   email       : "suzhenxzhong@gmail.com"
   bio         : "Researcher in Software Engineering and AI."
-  avatar      : " /images/profile.jpg"   # put your image in /images/
+  # avatar      : " /images/profile.jpg"   # put your image in /images/
   # other fields as needed

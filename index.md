@@ -5,7 +5,7 @@ author_profile: true   # shows the sidebar profile
 layout: home           # removes default “post” padding
 ---
 
-<div class="home-wrapper">
+<!-- <div class="home-wrapper"> -->
 
 <!-- <h1 class="home-title">Suzhen Zhong</h1> -->
 
