@@ -1,6 +1,6 @@
 author:
   # Biographic information
-  avatar           : "profile.jpeg"          # put your photo in /images or /assets/img
+  avatar           : "images/profile.jpeg"          # put your photo in /images or /assets/img
   name             : "Suzhen Zhong"
   pronouns         :                         # optional, e.g. "she/her"
   bio              : "Researcher in Software Engineering & AI at Queen’s University. Focus on developer-LLM collaboration, agentic processes, and empirical SE."
