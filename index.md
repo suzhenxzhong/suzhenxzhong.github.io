@@ -3,6 +3,7 @@ permalink: /
 title: "Suzhen Zhong"
 author_profile: true   # shows the sidebar profile
 layout: home           # removes default “post” padding
+author: Suzhen Zhong
 ---
 
 <!-- <div class="home-wrapper"> -->

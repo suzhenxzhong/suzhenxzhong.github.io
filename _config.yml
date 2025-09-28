@@ -1,16 +1,26 @@
 author:
-  avatar           : "/images/profile.jpg"          # put your photo in /images or /assets/img
-  name             : "Suzhen Zhong"
-  location         : "Kingston, Canada"
-  employer         : "Queen’s University"
-  email            : "suzhen.zhong@queensu.ca"
-
-  # Academic websites
-  googlescholar    : "https://scholar.google.com/citations?user=<your_id>"
-  orcid            : "https://orcid.org/0000-0000-0000-0000"
-
-  # Repositories and software development
-  github           : "https://github.com/suzhenxzhong"
-
-  # Social media
-  linkedin         : "https://www.linkedin.com/in/suzhen-zhong-09a62a236/"
+  name: "Suzhen Zhong"
+  avatar: "/images/profile.jpg"        # put your photo in /images or /assets/img
+  location: "Kingston, Canada"
+  affiliation: "Queen’s University"
+  email: "suzhen.zhong@queensu.ca"
+  googlescholar: "https://scholar.google.com/citations?user=<your_id>"
+  orcid: "https://orcid.org/0000-0000-0000-0000"
+  github: "https://github.com/suzhenxzhong"
+  linkedin: "https://www.linkedin.com/in/suzhen-zhong-09a62a236/"
+  links:
+    - label: "Email"
+      icon: "fas fa-envelope"
+      url: "mailto:suzhen.zhong@queensu.ca"
+    - label: "Google Scholar"
+      icon: "ai ai-google-scholar"
+      url: "https://scholar.google.com/citations?user=<your_id>"
+    - label: "ORCID"
+      icon: "ai ai-orcid"
+      url: "https://orcid.org/0000-0000-0000-0000"
+    - label: "GitHub"
+      icon: "fab fa-github"
+      url: "https://github.com/suzhenxzhong"
+    - label: "LinkedIn"
+      icon: "fab fa-linkedin"
+      url: "https://www.linkedin.com/in/suzhen-zhong-09a62a236/"
