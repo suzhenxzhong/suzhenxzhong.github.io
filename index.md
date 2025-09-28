@@ -1,8 +1,8 @@
 ---
 permalink: /
 title: "Suzhen Zhong"
-author_profile: true   # shows the sidebar profile
-layout: home           # removes default “post” padding
+layout: single          # shows the standard left sidebar
+author_profile: true    # puts your photo/contact block there
 ---
 
 <div class="home-wrapper">
