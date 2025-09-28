@@ -4,7 +4,7 @@ title: "About"
 author_profile: true
 ---
 
-Suzhen Zhong is a researcher in Software Engineering and AI, with a focus on developer–LLM collaboration, empirical SE, and agentic software processes. Currently at Queen’s University (Canada).
+Suzhen Zhong is a researcher in Software Engineering and AI, with a focus on developer–LLM collaboration, and agentic software processes. Currently at Queen’s University (Canada).
 
 <!-- Add education, research interests, CV link, etc. -->
 

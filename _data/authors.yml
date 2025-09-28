@@ -1,7 +1,14 @@
-suzhen:
-  name        : "Suzhen Zhong"
-  uri         : "https://suzhenxzhong.github.io"
-  email       : "suzhenxzhong@gmail.com"
-  bio         : "Researcher in Software Engineering and AI."
-  # avatar      : " /images/profile.jpg"   # put your image in /images/
-  # other fields as needed
+# _config.yml
+author:
+  name   : "Suzhen Zhong"
+  avatar : "/images/profile.jpg"   # path to your picture
+  location : "Kingston, Canada"
+  affiliation : "Queen’s University"
+  links:
+    - label: "Email"
+      icon: "fas fa-envelope"
+      url: "mailto:..."
+    - label: "Google Scholar"
+      icon: "ai ai-google-scholar"
+      url: "https://scholar.google.com/..."
+    # etc.
