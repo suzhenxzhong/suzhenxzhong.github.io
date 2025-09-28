@@ -6,7 +6,7 @@ layout: home           # removes default “post” padding
 author: Suzhen Zhong
 ---
 
-<!-- <div class="home-wrapper"> -->
+<div class="home-wrapper">
 
 <!-- <h1 class="home-title">Suzhen Zhong</h1> -->
 
