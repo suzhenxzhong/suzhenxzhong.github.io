@@ -7,7 +7,7 @@ author_profile: true    # puts your photo/contact block there
 
 <div class="home-wrapper">
 
-<h1 class="home-title">Suzhen Zhong</h1>
+<!-- <h1 class="home-title">Suzhen Zhong</h1> -->
 
 <p class="home-tagline">
   Researcher in Software Engineering & AI, Queen’s University, Canada.<br>
