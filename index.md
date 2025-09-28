@@ -14,6 +14,8 @@ author_profile: true    # puts your photo/contact block there
   Focus: developer-LLM collaboration, agentic software processes, empirical SE.
 </p>
 
+<img src="/images/profile.jpg" alt="Suzhen Zhong" class="home-avatar">
+
 <nav id="quick-nav" class="home-nav">
   <a href="/about/">About</a>
   <a href="/publications/">Publications</a>
