@@ -2,16 +2,11 @@ author:
   # Biographic information
   avatar           : "/images/profile.png"          # put your photo in /images or /assets/img
   name             : "Suzhen Zhong"
-  pronouns         :                         # optional, e.g. "she/her"
-  bio              : "Researcher in Software Engineering & AI at Queen’s University. Focus on developer-LLM collaboration, agentic processes, and empirical SE."
   location         : "Kingston, Canada"
   employer         : "Queen’s University"
-  uri              :                         # personal site if different from this one
   email            : "suzhen.zhong@queensu.ca"
 
   # Academic websites
-  academia         :
-  arxiv            : "https://arxiv.org/a/<your_id>.html"
   googlescholar    : "https://scholar.google.com/citations?user=<your_id>"
   orcid            : "https://orcid.org/0000-0000-0000-0000"
 

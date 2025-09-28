@@ -14,10 +14,10 @@ author_profile: true    # puts your photo/contact block there
   Focus: developer-LLM collaboration, agentic software processes, empirical SE.
 </p>
 
-<nav class="home-nav">
-  <a href="/about/">About</a> |
-  <a href="/publications/">Publications</a> |
-  <a href="/talks/">Talks</a> |
+<nav id="quick-nav" class="home-nav">
+  <a href="/about/">About</a>
+  <a href="/publications/">Publications</a>
+  <a href="/talks/">Talks</a>
   <a href="/teaching/">Teaching</a>
 </nav>
 
