@@ -14,13 +14,9 @@ author:
   arxiv            : "https://arxiv.org/a/<your_id>.html"
   googlescholar    : "https://scholar.google.com/citations?user=<your_id>"
   orcid            : "https://orcid.org/0000-0000-0000-0000"
-  pubmed           :
-  researchgate     :
 
   # Repositories and software development
-  github           : "suzhenxzhong"
+  github           : "https://github.com/suzhenxzhong"
 
   # Social media
-  bluesky          : "suzhen.bsky.social"
-  linkedin         : "suzhen-zhong"
-  twitter          : "suzhen_zhong"
+  linkedin         : "https://www.linkedin.com/in/suzhen-zhong-09a62a236/"
