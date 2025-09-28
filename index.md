@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "Suzhen Zhong"
+title: "Suzhen Zhong / Graduate Student"
 author_profile: true   # shows the sidebar profile
 layout: home           # removes default “post” padding
 author: Suzhen Zhong
