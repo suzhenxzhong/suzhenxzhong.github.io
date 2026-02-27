@@ -1,9 +1,13 @@
 ---
 permalink: /
 title: "Suzhen Zhong"
-layout: single          # ← IMPORTANT: shows the left sidebar
-author_profile: true    # ← turns on the profile block
+layout: single
+author_profile: true
 ---
 
-Researcher in **Software Engineering & AI**, Queen’s University, Canada.  
-Focus: developer–LLM collaboration, agentic software processes, empirical SE.
+# About Me
+Suzhen Zhong is a researcher in **Software Engineering & AI** at Queen’s University, Canada.  
+Her focus includes developer–LLM collaboration, agentic software processes, and empirical SE.
+
+# Publications
+For the most up-to-date list of my publications, please see my [Google Scholar page](https://scholar.google.com/citations?user=<your_id>).
