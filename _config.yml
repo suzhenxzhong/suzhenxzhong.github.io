@@ -50,16 +50,6 @@ author:
       icon: "fab fa-linkedin"
       url: "https://www.linkedin.com/in/suzhen-zhong-09a62a236/"
 
-# Publication Category - The following the list of publication categories and their headings
-publication_category:
-  preprints:
-    title: "Preprints"
-  patents:
-    title: "Patents"
-  conferences:
-    title: "Conference Papers"
-  manuscripts:
-    title: "Journal Articles"
 
 # Site Settings
 teaser                   :  # filename of teaser fallback teaser image placed in /images/ for social media previews
