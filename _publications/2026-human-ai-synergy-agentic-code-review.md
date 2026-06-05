@@ -5,7 +5,6 @@ category: preprints
 permalink: /publication/2026-human-ai-synergy-agentic-code-review
 date: 2026-03-16
 venue: "arXiv preprint"
-paperurl: "https://arxiv.org/abs/2603.15911"
 link: "https://arxiv.org/abs/2603.15911"
 excerpt: "A large-scale empirical study of 278,790 code review conversations across 300 open-source projects, comparing AI agents and human reviewers in collaborative agentic code review workflows."
 keywords:

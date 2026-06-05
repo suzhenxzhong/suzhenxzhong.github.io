@@ -5,7 +5,6 @@ category: preprints
 permalink: /publication/2025-developer-llm-conversations
 date: 2025-09-12
 venue: "arXiv preprint"
-paperurl: "https://arxiv.org/abs/2509.10402"
 link: "https://arxiv.org/abs/2509.10402"
 excerpt: "An empirical study of 82,845 real-world developer–LLM conversations examining how interaction patterns affect generated code quality across 20+ programming languages."
 keywords:
