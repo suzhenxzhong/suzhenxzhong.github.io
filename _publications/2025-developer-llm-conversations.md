@@ -7,7 +7,6 @@ date: 2025-09-12
 venue: "arXiv preprint"
 paperurl: "https://arxiv.org/abs/2509.10402"
 link: "https://arxiv.org/abs/2509.10402"
-citation: "Zhong, S., Zou, Y., & Adams, B. Developer-LLM Conversations: An Empirical Study of Interactions and Generated Code Quality (2025). arXiv:2509.10402."
 excerpt: "An empirical study of 82,845 real-world developer–LLM conversations examining how interaction patterns affect generated code quality across 20+ programming languages."
 keywords:
   - developer LLM conversations
