@@ -41,3 +41,11 @@
     "vendor/font-awesome/solid",
     "vendor/font-awesome/brands"
 ;
+
+/* Make author avatar a perfect circle */
+.author__avatar img {
+  border-radius: 50%;
+  width: 110px;
+  height: 110px;
+  object-fit: cover;
+}
