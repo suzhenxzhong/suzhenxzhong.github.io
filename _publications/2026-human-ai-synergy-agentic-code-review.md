@@ -1,7 +1,7 @@
 ---
 title: "Human-AI Synergy in Agentic Code Review"
 collection: publications
-category: manuscripts
+category: preprints
 permalink: /publication/2026-human-ai-synergy-agentic-code-review
 date: 2026-03-16
 venue: "arXiv preprint"

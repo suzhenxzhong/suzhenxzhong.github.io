@@ -1,7 +1,7 @@
 ---
 title: "Developer-LLM Conversations: An Empirical Study of Interactions and Generated Code Quality"
 collection: publications
-category: manuscripts
+category: preprints
 permalink: /publication/2025-developer-llm-conversations
 date: 2025-09-12
 venue: "arXiv preprint"

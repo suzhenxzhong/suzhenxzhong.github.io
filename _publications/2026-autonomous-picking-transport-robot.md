@@ -1,7 +1,7 @@
 ---
 title: "An Autonomous Picking and Transport Robot"
 collection: publications
-category: manuscripts
+category: patents
 permalink: /publication/2026-autonomous-picking-transport-robot
 date: 2026-01-01
 venue: "US Patent"
