@@ -13,7 +13,7 @@ site_theme               : "default" # Currently available options are "default"
 title                    : "Suzhen Zhong"
 title_separator          : "-"
 name                     : &name "Suzhen Zhong"
-description              : &description "Suzhen Zhong's academic portfolio"   # Update this with a general description of your site, this is the default if not overridden by a page
+description              : &description "Suzhen Zhong — Software Engineering & AI researcher at Queen's University. Research on developer-LLM collaboration, agentic code review, and empirical software engineering."
 url                      : https://suzhenxzhong.github.io # The base hostname & protocol for your site e.g. "https://[your GitHub username].github.io",
                                                            # or if you already have some other page hosted on Github then use "https://[your GitHub username].github.io/[Your Repo Name]"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
@@ -112,13 +112,28 @@ facebook:
   app_id                 :
   publisher              :
 og_image                 :  # Social media default site image
-og_description           :  # Social media default site image description
+og_description           : "Software Engineering & AI researcher at Queen's University. Research on developer-LLM collaboration, agentic code review, and empirical SE."
+keywords                 :
+  - agentic code review
+  - developer LLM collaboration
+  - empirical software engineering
+  - AI code review
+  - human-AI synergy
+  - large language models software engineering
+  - code quality LLM
+  - Suzhen Zhong
+  - Queen's University software engineering
 # For specifying social profiles
 # - https://developers.google.com/structured-data/customize/social-profiles
 social:
-  type                   : # Person or Organization (defaults to Person)
-  name                   : # If the user or organization name differs from the site"s name
-  links: # An array of links to social media profiles
+  type                   : Person
+  name                   : Suzhen Zhong
+  links:
+    - "https://scholar.google.com/citations?user=bF34mr0AAAAJ"
+    - "https://github.com/suzhenxzhong"
+    - "https://www.linkedin.com/in/suzhen-zhong-09a62a236/"
+    - "https://orcid.org/0009-0001-0522-1182"
+    - "https://arxiv.org/search/?searchtype=author&query=Suzhen+Zhong"
 
 
 # Analytics

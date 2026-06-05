@@ -7,6 +7,15 @@ venue: "arXiv preprint"
 paperurl: "https://arxiv.org/abs/2509.10402"
 citation: "Zhong, S., Zou, Y., & Adams, B. (2025). Developer-LLM Conversations: An Empirical Study of Interactions and Generated Code Quality. arXiv:2509.10402."
 excerpt: "An empirical study of 82,845 real-world developer–LLM conversations examining how interaction patterns affect generated code quality across 20+ programming languages."
+keywords:
+  - developer LLM conversations
+  - LLM code generation
+  - code quality large language models
+  - ChatGPT code quality
+  - developer AI interaction
+  - empirical software engineering
+  - CodeChat dataset
+  - AI generated code
 ---
 
 Large Language Models (LLMs) are increasingly used in software development, yet little is known about how developers interact with them in practice and how conversational dynamics influence code quality. We introduce **CodeChat**, a dataset of 82,845 real-world developer–LLM conversations containing 368,506 code snippets across 20+ programming languages, derived from WildChat.

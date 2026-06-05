@@ -7,6 +7,15 @@ venue: "arXiv preprint"
 paperurl: "https://arxiv.org/abs/2603.15911"
 citation: "Zhong, S., Noei, S., Zou, Y., & Adams, B. (2026). Human-AI Synergy in Agentic Code Review. arXiv:2603.15911."
 excerpt: "A large-scale empirical study of 278,790 code review conversations across 300 open-source projects, comparing AI agents and human reviewers in collaborative agentic code review workflows."
+keywords:
+  - agentic code review
+  - human-AI synergy
+  - AI code review
+  - automated code review
+  - code review agents
+  - human AI collaboration software engineering
+  - empirical software engineering
+  - open-source code review
 ---
 
 AI agents are increasingly deployed in code review workflows, yet their role relative to human reviewers remains poorly understood. This large-scale empirical study analyzes **278,790 code review conversations** across 300 open-source GitHub projects to compare AI agents and human reviewers in collaborative agentic code review.
