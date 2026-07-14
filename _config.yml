@@ -13,7 +13,7 @@ site_theme               : "default" # Currently available options are "default"
 title                    : "Suzhen Zhong"
 title_separator          : "-"
 name                     : &name "Suzhen Zhong"
-description              : &description "Suzhen Zhong — Software Engineering & AI researcher at Queen's University. Research on developer-LLM collaboration, agentic code review, and empirical software engineering."
+description              : &description "Suzhen Zhong — Human-AI collaborations researcher at Queen's University. Research on developer-LLM collaboration, agentic code review, and empirical software engineering."
 url                      : https://suzhenxzhong.github.io # The base hostname & protocol for your site e.g. "https://[your GitHub username].github.io",
                                                            # or if you already have some other page hosted on Github then use "https://[your GitHub username].github.io/[Your Repo Name]"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
@@ -104,7 +104,7 @@ facebook:
   app_id                 :
   publisher              :
 og_image                 :  # Social media default site image
-og_description           : "Software Engineering & AI researcher at Queen's University. Research on developer-LLM collaboration, agentic code review, and empirical SE."
+og_description           : "Human-AI collaborations researcher at Queen's University. Research on developer-LLM collaboration, agentic code review, and empirical SE."
 keywords                 :
   - agentic code review
   - developer LLM collaboration

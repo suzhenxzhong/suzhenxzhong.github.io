@@ -1,12 +1,12 @@
 ---
 permalink: /
-title: "Suzhen Zhong"
+title: ""
 layout: single
 author_profile: true
 ---
 
 # About Me
-Suzhen Zhong is a researcher in **Software Engineering & AI** at Queen’s University, Canada.  
+**Suzhen Zhong** is a researcher in Human-AI collaborations at Queen’s University, Canada.  
 Her focus includes developer–LLM collaboration, agentic software processes, and empirical SE.
 
 # Publications
