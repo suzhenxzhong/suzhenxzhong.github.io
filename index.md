@@ -41,4 +41,4 @@ For the most up-to-date list of my publications, please see my [Google Scholar p
 - [CASCON 2025](https://conf.researchr.org/home/cascon-2025) (subreviewer)
 
 **Student Volunteer**
-- ICSE 2026
+- [ICSE 2026](https://conf.researchr.org/home/icse-2026)
