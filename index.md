@@ -7,7 +7,7 @@ author_profile: true
 
 # About Me
 **Suzhen Zhong** is a researcher in Human-AI collaborations at Queen’s University, Canada.  
-Her focus includes developer–LLM collaboration, agentic software processes, and empirical SE.
+Her focus includes developer–LLM collaboration, agentic software processes.
 
 # Publications
 For the most up-to-date list of my publications, please see my [Google Scholar page](https://scholar.google.com/citations?user=bF34mr0AAAAJ).
