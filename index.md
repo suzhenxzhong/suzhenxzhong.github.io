@@ -9,11 +9,6 @@ author_profile: true
 **Suzhen Zhong** is a researcher in Human-AI collaborations at Queen’s University, Canada.  
 Her focus includes developer–LLM collaboration, agentic software processes, and empirical SE.
 
-# Academic Services
-**Reviewer**
-- ACM Transactions on Software Engineering and Methodology (TOSEM)
-- CASCON 2025 (subreviewer)
-
 # Publications
 For the most up-to-date list of my publications, please see my [Google Scholar page](https://scholar.google.com/citations?user=bF34mr0AAAAJ).
 
@@ -38,3 +33,8 @@ For the most up-to-date list of my publications, please see my [Google Scholar p
     {% include archive-single-cv.html %}
   {% endfor %}
 {% endif %}
+
+# Academic Services
+**Reviewer**
+- ACM Transactions on Software Engineering and Methodology (TOSEM)
+- CASCON 2025 (subreviewer)
