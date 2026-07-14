@@ -38,7 +38,7 @@ For the most up-to-date list of my publications, please see my [Google Scholar p
 **Reviewer**
 - ACM Transactions on Software Engineering and Methodology ([TOSEM](https://dl.acm.org/journal/TOSEM))
 - [FSE 2026](https://conf.researchr.org/home/fse-2026) (subreviewer)
-- CASCON 2025 (subreviewer)
+- [CASCON 2025](https://conf.researchr.org/home/cascon-2025) (subreviewer)
 
 **Student Volunteer**
 - ICSE 2026
