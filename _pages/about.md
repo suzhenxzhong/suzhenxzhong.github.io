@@ -6,6 +6,8 @@ author_profile: true
 
 Suzhen Zhong is a researcher in Human-AI collaborations, with a focus on developer–LLM collaboration, and agentic software processes. Currently at Queen’s University (Canada).
 
+Prior to her research career, she spent 9 years in the robotics industry as a full-stack engineer on humanoid robots, mobile robots, and robotic arms. Her work spanned warehouse logistics, restaurant, and factory operations.
+
 <!-- Add education, research interests, CV link, etc. -->
 
 
