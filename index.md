@@ -6,10 +6,10 @@ author_profile: true
 ---
 
 # About Me
-**Suzhen Zhong** is a researcher in Human-AI collaborations at Queen’s University, Canada.  
+**Suzhen Zhong** is a PhD student in Human-AI collaborations at Queen’s University, Canada.  
 Her focus includes agentic software processes and human–AI collaboration.
 
-Prior to her research career, she spent 9 years in the robotics industry as a full-stack engineer on humanoid robots, mobile robots, and robotic arms. Her work spanned warehouse logistics, restaurant, and factory operations.
+Prior to her PhD, she spent 9 years in the robotics industry as a full-stack engineer on humanoid robots, mobile robots, and robotic arms, deployed across warehouse logistics, restaurant service, and factory operations.
 
 # Publications
 For the most up-to-date list of my publications, please see my [Google Scholar page](https://scholar.google.com/citations?user=bF34mr0AAAAJ).
